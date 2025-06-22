@@ -1,0 +1,17 @@
+body {
+    background-image: url(photo/background.jpeg);
+    background-position: center; background-repeat: repeat;
+}
+
+.page {
+    padding: 25px;
+    border-radius: 100px;
+    width: 400px;
+    background-color: rgb(12, 226, 226);
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 27%;
+    
+}
