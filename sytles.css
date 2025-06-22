@@ -1,6 +1,7 @@
 body {
     background-image: url(photo/background.jpeg);
-    background-position: center; background-repeat: repeat;
+    background-position: center; 
+    background-repeat: repeat;
 }
 
 .page {
@@ -12,6 +13,14 @@ body {
     justify-content: center;
     align-items: center;
     display: flex;
-    margin-left: 27%;
+    margin-left: 27%; 
+
+}
+
+.try {
     
+}
+
+#text {
+    color: black;
 }
